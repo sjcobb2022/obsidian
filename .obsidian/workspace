@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "bca85912e5626ba0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b159350cef11ee1e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Software Engineering/Software Engineering - 13-10-2022.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08f69bbf7b8c1155",
+    "type": "split",
+    "children": [
+      {
+        "id": "6532ed504c7b35f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "917a8fd37f6d08be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d674ac3cc4f19ebe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27d0ea1c68e646a8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eeba232737f28541",
+    "type": "split",
+    "children": [
+      {
+        "id": "c964ac29f5af0821",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c81398311b7b5b3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Software Engineering/Software Engineering - 13-10-2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8141a75f46028d90",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Software Engineering/Software Engineering - 13-10-2022.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c07c868c4fe3ff6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cac183d414aaaca2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Software Engineering/Software Engineering - 13-10-2022.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b159350cef11ee1e",
+  "lastOpenFiles": [
+    "Software Engineering/Software Engineering - 12-10-2022.md",
+    "Software Engineering/Software Engineering - 13-10-2022.md",
+    "Software Engineering/Software Engineering - 5-10-2022.md",
+    "Software Engineering/Software Engineering - 3-10-2022.md",
+    "Computer Systems/COA123 - 6-10-2022.md",
+    "Logic for Computer Science/22COA107.md",
+    "Maths for Computer Science/COA2200.md",
+    "Intro to Programming/COA112.md"
+  ]
+}
