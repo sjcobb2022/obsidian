@@ -11,8 +11,12 @@
             "id": "938f0a24fd90ceb3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/Software Engineering - 26-10-2022.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "eeba232737f28541",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software Engineering/Software Engineering - 26-10-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Software Engineering/Software Engineering - 26-10-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Software Engineering/Software Engineering - 26-10-2022.md"
+              }
             }
           }
         ]
@@ -134,15 +141,15 @@
   },
   "active": "938f0a24fd90ceb3",
   "lastOpenFiles": [
-    "Computer Systems/Computer Systems 15-10-2022.md",
+    "Software Engineering/Software Engineering - 19-10-2022.md",
     "Software Engineering/Software Engineering - 20-10-2022.md",
+    "Software Engineering/Software Engineering - 26-10-2022.md",
+    "Computer Systems/Computer Systems 15-10-2022.md",
     "Computer Systems/Computer Systems 20-10-2022.md",
-    "Software Engineering/Software Engineering 19-10-2022.md",
     "Intro to Programming/COA112.md",
     "Logic for Computer Science/22COA107.md",
     "Maths for Computer Science/COA2200.md",
     "Software Engineering/Software Engineering - 13-10-2022.md",
-    "Software Engineering/Software Engineering - 3-10-2022.md",
-    "Computer Systems/Computer Systems - 6-10-2022.md"
+    "Software Engineering/Software Engineering - 3-10-2022.md"
   ]
 }
