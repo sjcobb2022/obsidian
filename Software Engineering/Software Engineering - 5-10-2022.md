@@ -50,7 +50,7 @@ Minor issue with requirement specification caused major issues.
 
 Rewire 530km of wire. 
 
-#### Case Study: Advanced Passanger Train
+#### Case Study: Advanced Passenger Train
 
 Make train tilt whilst making sure no one gets motion fixed.
 
@@ -124,7 +124,7 @@ VModel
 - waterfall with added emphasis on testing
 Iterative development
 - may be plan-driven or agile
-Incremental development 
+
 - may be plan driven or agile
 Intergration and configuration
 - The system is assembled from existing configurable components. May be plan-driven or agile.
@@ -145,7 +145,7 @@ Build it in chunks
 
 Split design into a bunch of finer individual, signed-off, chunks.
 
-Sofware engineers write the tests a lot earlier on. 
+Software engineers write the tests a lot earlier on. 
 
 Helps ensure legitemacy of testing.
 
@@ -153,7 +153,7 @@ Broken the system down so much that going back down is a lot more complicated.
 
 #### Incremental Development
 
-Dewvelop system sin parts, each part providing some useful function to the customer
+Develop systems in parts, each part providing some useful function to the customer
 
 Could be imagined as multiple mini waterfalls if plan driven.
 

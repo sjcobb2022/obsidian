@@ -35,7 +35,7 @@ If you don't know what test to create then it's proballby a bad test in the firs
 #### Importance of Verifiability
 - Determining whether a requirement is verifiable what test you would perform...
 - Major issues
-	- Stakeholders express themselves using: nice, fast, sor of silvery colour
+	- Stakeholders express themselves using: nice, fast, sort of silvery colour
 		- not specific data
 	- Design tests but don't over constrain
 		- e.g. splashproof != waterproof to 5 meters

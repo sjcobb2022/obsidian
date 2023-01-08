@@ -10,25 +10,25 @@ Branded iterative models
 Iteration can be used in things such as UI design
 
 
-## Intergration and configuration
-- Based on sogtware reuse where systesm are interagrated from existing components or application systems (COTS Commercial-off-the-shelf systems)
-- Reusse elements are configured/adapted
-- Reuse is now cery common
+## Integration and configuration
+- Based on software reuse where systems are integrated from existing components or application systems (COTS Commercial-off-the-shelf systems)
+- Reuse elements are configured/adapted
+- Reuse is now very common
 	- Sharepoint, SAP solutions etc are all COTS
 
 Most software is just commercial that is intergrated.
 
 ### Types of Reusable software
-- Stand-alone application systems (solmetimes COTS) that are configired for us in a particular environment
+- Stand-alone application systems (sometimes COTS) that are configured for us in a particular environment
 - Web services that are developed according to service standards which are available for remote invocation
-- Collections of objects that are dfeveloped as a package to been intergraed with a component framework such as .NET or J2EE
+- Collections of objects that are developed as a package to been integrated with a component framework such as .NET or J2EE
 
 
 ### Advantages and disadvantages. 
 - reduced costs
 - faster delivery
 - requiremtn compromises are inveitable
-- loss of control over evolution or reused sustem elements.
+- loss of control over evolution or reused system elements.
 
 
 ## Software evolution
@@ -86,7 +86,6 @@ Consistent
 Necessary
 Complete
 Cost Effective
-Verifiable
 
 ### Specifying written requiremnts
 
